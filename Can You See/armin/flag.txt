@@ -1,0 +1,3 @@
+picoCTF{ME74D47A_HIDD3N_6a9f5ac4}
+
+exiftool
