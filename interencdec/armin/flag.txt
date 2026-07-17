@@ -1,4 +1,4 @@
 wpjvJAM{jhlzhy_k3jy9wa3k_m0212758}
 convert from base64 two times.
 
-Ari : 2 times and rot19 "picoCTF{caesar_d3cr9pt3d_f0212758}"
+Ari : base64 2 times and rot19 "picoCTF{caesar_d3cr9pt3d_f0212758}"
